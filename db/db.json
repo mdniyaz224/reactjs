@@ -1,0 +1,25 @@
+{
+  "restaurant": [
+    {
+      "name": "khana khajana",
+      "address": "patna",
+      "ratting": "123",
+      "email":"niyaz@123",
+      "id": 1
+    },
+    {
+      "name": "khana khajana",
+      "address": "patna",
+      "ratting": "123",
+      "email":"niyaz@123",
+      "id": 2
+    },
+    {
+      "name": "khana khajana",
+      "address": "patna",
+      "ratting": "123",
+      "email":"niyaz@123",
+      "id": 3
+    }
+  ]
+}
